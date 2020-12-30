@@ -1,0 +1,84 @@
+body{
+   font-family: Georgia
+}
+#banner{
+    background-color: #824555;
+    color: white;
+    text-align: center;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+}
+#pan1{
+    background-color: #A26475;
+    color: white;
+    width: 30%;
+    height: 300px;
+    float: left;
+}
+#pan2{
+    background-color: #A26475;
+    color: white;
+    width: 30%;
+    height: 300px;
+    float: left;
+}
+#pan3{
+    float:left;
+    background-color: #A26475;
+    color: white;
+    width: 40%;
+    height: 300px;
+    
+}
+#pang{
+    clear: both;
+    background-color: #F0EAE2;
+    padding-left: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+}
+#stopka{
+    background-color: #824555;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+table  {
+    padding: 7px;
+    border: 2px solid #69293A;
+    border-collapse: collapse;
+        
+}
+table td {
+    border: 2px solid #69293A;
+    padding-bottom: 7px;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-top: 7px;
+    
+}
+button{
+   border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+   
+    
+}
+#col1{
+    background-color: red;
+    
+}
+#col2{
+    background-color: green;
+}
+#col3{
+    background-color: blue;
+}
+li{
+ 
+}
+#a1{
+    font-style: italic;
+}
