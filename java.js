@@ -5,9 +5,9 @@
 function format(){
       var prost = document.getElementById("prosty").value;
       var kursy = document.getElementById("kursywa").value;
+ 
     //var prost = document.getElementById("wybierz").options[document.getElementById("wybierz").firstElementChild ].value;
-     
-      //var kursy = document.getElementById('wybierz').options[document.getElementById('kursywa').lastElementChild ].value;
+   //var kursy = document.getElementById('wybierz').options[document.getElementById('kursywa').lastElementChild ].value;
     
      if(kursy.onchange="format();"){
         
@@ -16,16 +16,13 @@ function format(){
     } else { prost.onchange="format();"
         document.getElementById('para').style.fontStyle = "normal";
         
-    }
-    
-    
+    }   
       
  }
 
  function textSize(){
     var proc = document.getElementById("procent").value;
-    document.getElementById('para').style.fontSize = proc + "%";
-     
+    document.getElementById('para').style.fontSize = proc + "%";    
      
  }
 function kolor(){
