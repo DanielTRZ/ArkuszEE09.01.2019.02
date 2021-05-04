@@ -50,7 +50,6 @@ function kolor3(){
 
 
 }
-
     //if(col1){
        // para.backgroundColor = "red";
    // }else if (col2){
