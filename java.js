@@ -4,7 +4,7 @@
 //^^^^^^^^^^^^^^
 function format(){
 var prost = document.getElementById("prosty").value;
-      var kursy = document.getElementById("kursywa").value;
+var kursy = document.getElementById("kursywa").value;
  
     //var prost = document.getElementById("wybierz").options[document.getElementById("wybierz").firstElementChild ].value;
    //var kursy = document.getElementById('wybierz').options[document.getElementById('kursywa').lastElementChild ].value;
