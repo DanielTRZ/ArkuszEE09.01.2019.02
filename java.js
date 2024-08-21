@@ -12,7 +12,7 @@ var kursy = document.getElementById("kursywa").value;
 if(kursy.onchange="format();"){      
 document.getElementById('para').style.fontStyle = "italic";
 } else { prost.onchange="format();"
-        document.getElementById('para').style.fontStyle = "normal";
+document.getElementById('para').style.fontStyle = "normal";
         
     }   
       
