@@ -21,7 +21,8 @@ document.getElementById('para').style.fontSize = proc + "%";
 }
 function kolor(){
 var col1 = document.getElementById("col1");
-   
+
+ 
     if(col1.onclick="kolor();"){
         
     document.getElementById('para').setAttribute("style","color: red");
