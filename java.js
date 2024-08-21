@@ -15,7 +15,6 @@ document.getElementById('para').style.fontStyle = "italic";
 document.getElementById('para').style.fontStyle = "normal";
 }        
 }
-
  function textSize(){
     var proc = document.getElementById("procent").value;
     document.getElementById('para').style.fontSize = proc + "%";    
