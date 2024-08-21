@@ -13,7 +13,7 @@ if(kursy.onchange="format();"){
 document.getElementById('para').style.fontStyle = "italic";
 } else { prost.onchange="format();"
 document.getElementById('para').style.fontStyle = "normal";
-       }   
+}   
       
  }
 
