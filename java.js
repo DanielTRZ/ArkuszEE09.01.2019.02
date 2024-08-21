@@ -23,7 +23,7 @@ function kolor(){
 var col1 = document.getElementById("col1");
 if(col1.onclick="kolor();"){
         
-    document.getElementById('para').setAttribute("style","color: red");
+document.getElementById('para').setAttribute("style","color: red");
         
     } }
 function kolor2(){
