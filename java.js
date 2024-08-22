@@ -43,7 +43,7 @@ document.getElementById('para').setAttribute("style","color: blue")
 
 }
 //if(col1){
-       // para.backgroundColor = "red";
+// para.backgroundColor = "red";
    // }else if (col2){
       //  para.backgroundColor = "green";
    // }else (col3){
