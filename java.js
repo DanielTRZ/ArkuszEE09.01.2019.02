@@ -36,7 +36,7 @@ document.getElementById('para').setAttribute("style","color: green")
 function kolor3(){
 var col3 = document.getElementById("col3");
     
-     if(col3.onclick="kolor3();"){
+if(col3.onclick="kolor3();"){
      document.getElementById('para').setAttribute("style","color: blue")
     }
 
