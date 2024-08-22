@@ -24,7 +24,7 @@ var col1 = document.getElementById("col1");
 if(col1.onclick="kolor();"){
 document.getElementById('para').setAttribute("style","color: red");
         
-    } }
+} }
 function kolor2(){
     var col2 = document.getElementById("col2");
     if(col2.onclick="kolor2();"){
