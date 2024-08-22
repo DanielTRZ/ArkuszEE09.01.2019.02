@@ -30,7 +30,7 @@ var col2 = document.getElementById("col2");
 if(col2.onclick="kolor2();"){
         
 document.getElementById('para').setAttribute("style","color: green")
-    }
+}
     
 }
 function kolor3(){
