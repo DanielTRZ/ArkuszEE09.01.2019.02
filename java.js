@@ -47,7 +47,7 @@ document.getElementById('para').setAttribute("style","color: blue")
 // }else if (col2){
 //  para.backgroundColor = "green";
 // }else (col3){
-       // para.backgroundColor = "blue" ;
+// para.backgroundColor = "blue" ;
    // }
           
    //var  wybierz =document.getElementById("").color;
