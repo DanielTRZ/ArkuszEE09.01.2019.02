@@ -50,5 +50,5 @@ document.getElementById('para').setAttribute("style","color: blue")
 // para.backgroundColor = "blue" ;
 // }
           
-   //var  wybierz =document.getElementById("").color;
+//var  wybierz =document.getElementById("").color;
      // col1.addEventListener("click")function kolor(){
