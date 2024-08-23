@@ -46,7 +46,7 @@ document.getElementById('para').setAttribute("style","color: blue")
 // para.backgroundColor = "red";
 // }else if (col2){
 //  para.backgroundColor = "green";
-   // }else (col3){
+// }else (col3){
        // para.backgroundColor = "blue" ;
    // }
           
