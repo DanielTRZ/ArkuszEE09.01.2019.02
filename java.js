@@ -51,4 +51,4 @@ document.getElementById('para').setAttribute("style","color: blue")
 // }
           
 //var  wybierz =document.getElementById("").color;
-     // col1.addEventListener("click")function kolor(){
+// col1.addEventListener("click")function kolor(){
